@@ -1,4 +1,21 @@
 
+# Game
+
+## Guess Number
+
+The Game Guess Numbers has a few superterrestrial purposes:
+  - to provide a simple game to chillout
+  - while working on it, Zdenka is learning to code in JavaScript
+  - Zdenka is learning HTML
+  - learning to use GitHub
+  - futher new exciting features to learn are comming up
+ 
+      >Totally indispensable is the infinite selfless help of Kaja (@hovi).
+ 
+Guess Numbers uses the basic principles of *cristal clean magic*. To divine a number heavenly **luck** is necessary. The approximate  description of conditions required to obtain this luck is describes the science of **astrology**. Guess with ease and pleasure on your  heart, because luck is writen in the *stars*.
+
+![A picture of zodiac signs.](https://time.com/5315377/are-zodiac-signs-real-astrology-history/)
+
 # Hra
 
 ## Hra hádání čísel
