@@ -34,6 +34,7 @@ Hra hádání čísel má několik nadpozemských záměrů:
 Hádání čísel používá základní aspekty *magie*. K uhádnutí čísla je potřeba **štěstí**, které padá z nebe, a k jeho vysvětlení se blíží **astrologie**.  Hádejte tedy vesele, protože štěstí je ve *hvězdách*.
 
 **[Hraj](http://numeraledivine.wz.cz/)** on-line a vydej se ke ***hvezdam***!
+
 <a href="http://numeraledivine.wz.cz/" target="_blank">Hraj!</a>
 
 ![A picture of zodiac signs.](https://api.time.com/wp-content/uploads/2018/06/zodiac-history-astrology-signs.jpg)
