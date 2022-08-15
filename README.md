@@ -16,6 +16,8 @@ Guess Numbers uses the basic principles of *cristal clean magic*. To divine a nu
 
 **[Play](http://numeraledivine.wz.cz/)** on-line and reach the ***stars***!
 
+<a href="http://numeraledivine.wz.cz/" target="_blank">Play!</a>
+
 ![A picture of zodiac signs.](https://api.time.com/wp-content/uploads/2018/06/zodiac-history-astrology-signs.jpg)
 
 # Hra
