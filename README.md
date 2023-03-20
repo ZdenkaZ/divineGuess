@@ -12,7 +12,7 @@ The Game Guess Numbers has a few superterrestrial purposes:
  
       >Totally indispensable is the infinite selfless help of Kaja (@hovi).
  
-Guess Numbers uses the basic principles of *cristal clean magic*. To divine a number heavenly **luck** is necessary. The approximate  description of conditions required to obtain this luck is describes the science of **astrology**. Guess with ease and pleasure on your  heart, because luck is writen in the *stars*.
+Guess Numbers uses the basic principles of *cristal clean magic*. To divine a number heavenly **luck** is necessary. The approximate description of conditions required to obtain this luck is described by the science of **astrology**. Guess with ease and pleasure on your heart, because luck is writen in the *stars*.
 
 **[Play](http://numeraledivine.wz.cz/)** on-line and reach the ***stars***!
 
